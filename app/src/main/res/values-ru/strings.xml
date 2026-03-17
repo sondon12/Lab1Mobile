@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">МояВизитка</string>
+    <string name="full_name">Пантюхина Софья</string>
+    <string name="course">Б23-191-2</string>
+    <string name="email">mail@example.com</string>
+    <string name="contact">Связаться со мной:</string>
+</resources>
