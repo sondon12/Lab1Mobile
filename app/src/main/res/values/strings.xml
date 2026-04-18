@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">МояВизитка</string>
-    <string name="full_name">Пантюхина Софья Аликовна</string>
-    <string name="course">Б23-191-2</string>
+    <string name="app_name">MyCard</string>
+    <string name="full_name">Pantuihina Sofia</string>
+    <string name="course">B23-191-2</string>
     <string name="email">mail@example.com</string>
-    <string name="contact">Связаться со мной:</string>
+    <string name="contact">Contact with me:</string>
 </resources>
